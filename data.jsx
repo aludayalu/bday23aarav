@@ -7,7 +7,7 @@ export var levels={
     6:"Potato Eating Inhumane Food",
     7:"My dog runs away sometimes, just saying",
     8:"Always lookup wehn going down",
-    9:"I am too poor to afford a car. Need to use a non petrol bases transporation to go to tuition nowadays smh + munirka doesnt have much space for electric powered vehicles anyways. Sad",
+    9:"I don't have a car. Need to use a non petrol bases transporation to go to tuition nowadays + munirka doesnt have much space for electric powered vehicles anyways. What medium of transportation is this?",
     10:"Please use sidewalk for pets",
     11:"L",
     12:"Shortcut to Hell",
